@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Content Analyzer",
+  "description": "Analyze social media posts, extract text from PDFs and scanned document images via OCR, evaluate engagement metrics, and generate platform-tailored optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
